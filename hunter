@@ -1,0 +1,6 @@
+Trap
+
+#showtooltip
+
+/use [nomod] Freezing Trap
+/use [mod:shift] Tar Trap
